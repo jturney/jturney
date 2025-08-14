@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- Banner / Introduction -->
+# 👋 Hi, I’m Justin
 
-<!--
-**jturney/jturney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/justin-turney-phd)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:justin.turney@gmail.com)
 
-Here are some ideas to get you started:
+Senior Research Scientist in **computational quantum chemistry** and **high-performance computing**.  
+I design high-performance tensor libraries, distributed runtimes, and tools that blend cutting-edge algorithms with efficient low-level execution.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧪 Current Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Einsums**](https://github.com/Einsums/Einsums) | C++20 tensor library for single-node and GPU computations | C++20, CUDA / HIP |
+| [**Psi4**](https://github.com/psi4/psi4) | Open source quantum chemistry | C++20, Python |
+
+---
+
+## 📌 Pinned Project Showcase
+
+<!-- Static option: Use GitHub Readme Stats for repo cards -->
+<a href="https://github.com/Einsums/Einsums">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Einsums&repo=Einsums&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/psi4/psi4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=psi4&repo=psi4&theme=github_dark&hide_border=true" />
+</a>
+
+---
+
+## 🚀 Technical Interests
+- Tensor rank reduction (DLPNO, THC)  
+- Task-based parallelism & custom AGAS designs  
+- Performance benchmarking & profiling tools  
+- Scientific Python/C++ interoperability  
+
+---
+
+> *"Efficient science needs efficient code."*
